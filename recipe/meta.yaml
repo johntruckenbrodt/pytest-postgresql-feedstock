@@ -37,7 +37,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/ClearcodeHQ/pytest-postgresql
+  home: https://github.com/dbfixtures/pytest-postgresql
   summary: Postgresql fixtures and fixture factories for Pytest.
   license: LGPL-3.0-or-later
   license_file:
